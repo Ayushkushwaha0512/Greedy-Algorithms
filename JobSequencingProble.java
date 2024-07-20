@@ -11,7 +11,7 @@ import java.util.*;
  *          if(job(deadline)<time){
  *              add jobs in result
  *              time++
- *          }     
+ *          }     ;;;
  *      }
  */
 public class JobSequencingProble {
